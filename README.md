@@ -1,2 +1,2 @@
 # mamamayoi.github.io
-real
+https://mamamayoi.github.io
